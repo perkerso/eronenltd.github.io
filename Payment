@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Refund Policy - Eronen Ltd</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>Payment</h1></header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="services.html">Services</a>
+    <a href="privacy.html">Privacy</a>
+    <a href="refund.html">Refund</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+   <main>
+    <p>Pay securely using Revolut:</p>
+
+<!-- Revolut payment button -->
+    <a href="https://checkout.revolut.com/pay/45b7c91f-f9ff-4646-9ba7-b787bbf0c51c" rel="noopener noreferrer" class="payment-button">
+      Pay EUR with Revolut
+    </a>
+
+       <!-- Revolut payment button -->
+    <a href="https://checkout.revolut.com/pay/60af627e-c687-4ff8-b234-baf15d56d18e" rel="noopener noreferrer" class="payment-button">
+      Pay GBP with Revolut
+    </a>
+  </main>
+
+  <footer>&copy; 2025 Eronen Ltd</footer>
+</body>
+</html>
